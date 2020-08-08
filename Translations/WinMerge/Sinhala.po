@@ -35,11 +35,11 @@ msgstr "වම් පසට පිටපත් කිරීම"
 
 #, c-format
 msgid "Copy &from Left"
-msgstr ""
+msgstr "වමෙන් පිටපත් කරන්න"
 
 #, c-format
 msgid "Copy fro&m Right"
-msgstr ""
+msgstr "දකුණෙන් පිටපත් කරන්න"
 
 #, c-format
 msgid "&Select Line Difference"
@@ -79,25 +79,24 @@ msgstr "ලියපදිංචි කළ නි‍යෑලුම සමග"
 
 #, c-format
 msgid "with &External Editor\tCtrl+Alt+E"
-msgstr ""
+msgstr "බාහිර සංස්කාරක සමඟ"
 
 #, c-format
 msgid "&with..."
 msgstr "&සමග"
 
 msgid "S&hell Menu"
-msgstr ""
+msgstr "කවච මෙනුව"
 
 #, c-format
 msgid "View &Differences"
-msgstr ""
+msgstr "වෙනස්කම් බලන්න"
 
 #, c-format
 msgid "Diff &Block Size"
 msgstr ""
 
-#, c-format
-msgid "&Ignore Color Difference (Color Distance Threshold)"
+#, c-format 
 msgstr ""
 
 msgid "Ins&ertion/Deletion Detection"
@@ -108,22 +107,22 @@ msgid "&None"
 msgstr "කිසිත් නැත"
 
 msgid "&Vertical"
-msgstr ""
+msgstr "සිරස්"
 
 msgid "&Horizontal"
-msgstr ""
+msgstr "තිරස්"
 
 #, c-format
 msgid "&Previous Page"
-msgstr ""
+msgstr "පෙර පිටුව"
 
 #, c-format
 msgid "&Next Page"
-msgstr ""
+msgstr "ඊළඟ පිටුව"
 
 #, c-format
 msgid "&Active Pane"
-msgstr ""
+msgstr "සක්‍රීය කවුළුව"
 
 #, c-format
 msgid "&Zoom"
@@ -131,7 +130,7 @@ msgstr "විශාල කරන්න"
 
 #, c-format
 msgid "25%"
-msgstr ""
+msgstr "25%"
 
 #, c-format
 msgid "Zoom &In\tCtrl++"
@@ -160,7 +159,7 @@ msgstr ""
 
 #, c-format
 msgid "Dragging &Mode"
-msgstr ""
+msgstr "ඇදීමේ ප්‍රකාරය"
 
 #, c-format
 msgid "&Move"
@@ -408,7 +407,7 @@ msgstr "S&kipped අයිතම දක්වන්න"
 
 #, c-format
 msgid "S&how Binary Files"
-msgstr "Binary  දක්වන්න"
+msgstr "ද්විමය ගොනු දක්වන්න"
 
 #, c-format
 msgid "&3-way Compare"
@@ -3797,15 +3796,15 @@ msgstr ""
 
 #, c-format
 msgid "Mixed"
-msgstr "Mixed"
+msgstr "මිශ්ර"
 
 msgctxt "EOL Type"
 msgid "Binary"
-msgstr ""
+msgstr "ද්විමය"
 
 #, c-format
 msgid "None"
-msgstr "None"
+msgstr "කිසිවක් නැත"
 
 #, c-format
 msgid "Marker Color %d"
